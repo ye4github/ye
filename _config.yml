@@ -1,25 +1,25 @@
 title:            Computer Science
 description:      "Hoory, Running Man"
 logo:             logo3.png
-disqus_shortname: yejianping
+disqus_shortname: jack.ye
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 #url:        	  http://hmfaysal.github.io       
-url:    http://yejianping.github.io/ye
+url:    http://ye4github.github.io/ye
 
 # Owner/author information
 owner:
-  name:           Jianping Ye
+  name:           Jack Ye
   avatar:         jianping.jpg
-  email:          yjp0000000@gmail.com
+  email:          quhutunlang@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Stand Alone Complex
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        JianpingYe
-  facebook:       100006554733621
-  github:         yejianping
+  twitter:        
+  facebook:       
+  github:         ye4github
   instagram:      
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://yejianping.github.io/ye/'
-  relativeLinks: 'http://yejianping.github.io/ye/links.jsonp'
+  siteurl: 'http://ye4github.github.io/ye/'
+  relativeLinks: 'http://ye4github.github.io/ye/links.jsonp'
   media: 'images'
   metadata:
     _posts:

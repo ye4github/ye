@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /self-introduction/index.html
-title: JIANPING YE
-tags: [JIANPING, YE]
+title: Jack Ye
+tags: [Jack, Ye]
 image:
   feature: Hossain-Mohd-Faysal.jpg
 ---
 
-  <img src="{{ site.url }}/images/jianping_self_intr.jpg" alt="Jianping Ye@Computer Science">
+  <img src="{{ site.url }}/images/jianping_self_intr.jpg" alt="Jack Ye@Computer Science">
 
 
-My name is **Jianping Ye**, and this is my personal blog.  
+My name is **Jack Ye**, and this is my personal blog.  
 
 I am an M.S. candidate in *Computer Science* at the [Department of Computer Science & Engineering](http://engineering.tamu.edu/cse/) at **Texas A&M University**. My undergraduate degree is obtained in **Beijing University of Posts and Telecommunications** where I majored in *Networking Engineering* at [School of Computer Science](http://scs.bupt.edu.cn/cs_web/).
 
